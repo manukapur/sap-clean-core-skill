@@ -25,7 +25,7 @@ A comprehensive reference for SAP Clean Core architecture, extensibility, govern
 - **Individual API/object questions** ("is function module X released?") → check the release state in the Cloudification Repository (github.com/SAP/abap-atc-cr-cv-s4hc) or ADT's API State; don't guess from the object name.
 - **Recency**: SAP updates its clean core notes frequently. If web access is available and the user needs a definitive answer, check whether a newer version of Note 3578329 exists than the one this skill is based on.
 
-> **Author**: Manu, [Markks Ltd](https://markks.co.uk). Released under the MIT License.
+> **Author**: Manu, [Markks Ltd](https://markks.co.uk). Released under the MIT License. Source and updates: https://github.com/manukapur/sap-clean-core-skill
 >
 > **Disclaimer**: Community-maintained skill, not an official SAP product; not affiliated with or endorsed by SAP SE. SAP, S/4HANA, ABAP and BTP are trademarks of SAP SE. Framework ratings are transcribed from SAP Note 3578329 v21 (05.08.2026); SAP's current note always takes precedence. Benchmarks and KPI targets below are practitioner guidance, not SAP-published figures.
 
